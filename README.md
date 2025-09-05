@@ -55,7 +55,7 @@ Vendor-Sales-Dashboard/
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/vendor-sales-dashboard.git
+git clone https://github.com/<gyanendra23>/vendor-sales-dashboard.git
 
 
 Open the .pbix file in Power BI Desktop.
