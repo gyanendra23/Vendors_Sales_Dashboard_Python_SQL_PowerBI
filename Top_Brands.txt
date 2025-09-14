@@ -1,0 +1,11 @@
+,Description,TotalSalesDollars
+0,Jack Daniels No 7 Black,39.82M
+1,Tito's Handmade Vodka,37.00M
+2,Grey Goose Vodka,36.05M
+3,Capt Morgan Spiced Rum,31.78M
+4,Absolut 80 Proof,31.22M
+5,Jameson Irish Whiskey,28.58M
+6,Ketel One Vodka,25.35M
+7,Baileys Irish Cream,20.75M
+8,Kahlua,18.02M
+9,Tanqueray,17.28M
